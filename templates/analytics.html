@@ -1,0 +1,7 @@
+<!DOCTYPE html><html><head><title>Analytics</title><link rel="stylesheet" href="/static/css/style.css"><script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script></head>
+<body><nav><b>Surat Estate AI</b><span><a href="/">Predict</a><a href="/history">History</a><a href="/analytics">Analytics</a></span></nav>
+<main class="card"><h1>Market Analytics</h1><div id="locationChart"></div><div id="bhkChart"></div></main>
+<script>
+Plotly.newPlot("locationChart",[{x:{{location_labels|tojson}},y:{{location_values|tojson}},type:"bar"}],{title:"Average Price by Location",yaxis:{title:"Average Price (₹)"}});
+Plotly.newPlot("bhkChart",[{x:{{bhk_labels|tojson}},y:{{bhk_values|tojson}},type:"bar"}],{title:"Average Price by BHK",xaxis:{title:"BHK"},yaxis:{title:"Average Price (₹)"}});
+</script></body></html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head><title>Surat Real Estate Price Predictor</title><link rel="stylesheet" href="/static/css/style.css"></head>
+<body>
+<nav><b>Surat Estate AI</b><span><a href="/">Predict</a><a href="/history">History</a><a href="/analytics">Analytics</a></span></nav>
+<main class="card">
+<h1>Real Estate Price Prediction</h1>
+<p>Enter property details to estimate the price using a Random Forest model.</p>
+<form action="/predict" method="post">
+<div class="grid">
+<label>Location<select name="location" required>{% for x in ["Vesu","Adajan","Pal","Piplod","Althan","City Light","Dindoli","Varachha","Katargam","Athwa"] %}<option>{{x}}</option>{% endfor %}</select></label>
+<label>Property Type<select name="property_type"><option>Apartment</option><option>Villa</option><option>Independent House</option></select></label>
+<label>Area (sq.ft.)<input type="number" name="area_sqft" min="300" max="10000" required></label>
+<label>BHK<input type="number" name="bhk" min="1" max="10" required></label>
+<label>Bathrooms<input type="number" name="bathrooms" min="1" max="10" required></label>
+<label>Floor<input type="number" name="floor" min="0" max="100" required></label>
+<label>Property Age (years)<input type="number" name="property_age" min="0" max="100" required></label>
+<label>Parking<select name="parking"><option>Yes</option><option>No</option></select></label>
+<label>Furnishing<select name="furnishing"><option>Unfurnished</option><option>Semi-Furnished</option><option>Furnished</option></select></label>
+</div><button>Predict Price</button>
+</form>
+{% with messages=get_flashed_messages() %}{% for m in messages %}<p class="error">{{m}}</p>{% endfor %}{% endwith %}
+</main>
+</body></html>

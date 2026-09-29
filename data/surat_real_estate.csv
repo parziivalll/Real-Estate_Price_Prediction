@@ -1,0 +1,1001 @@
+location,property_type,area_sqft,bhk,bathrooms,floor,property_age,parking,furnishing,price
+Adajan,Villa,652,2,2,7,4,Yes,Furnished,5832379
+Athwa,Apartment,2278,4,3,6,7,Yes,Furnished,17117018
+Katargam,Apartment,2268,4,4,0,5,No,Semi-Furnished,9903834
+City Light,Villa,968,1,1,11,11,No,Unfurnished,7807685
+Dindoli,Apartment,872,2,2,6,2,Yes,Furnished,3976777
+Adajan,Apartment,1503,4,5,8,14,No,Unfurnished,7547090
+Althan,Apartment,3424,5,4,5,17,Yes,Unfurnished,17226876
+Katargam,Apartment,1449,3,2,7,1,No,Semi-Furnished,6452656
+Athwa,Apartment,3490,5,5,12,20,No,Unfurnished,18440670
+Katargam,Apartment,2757,5,5,12,11,Yes,Unfurnished,10993613
+Vesu,Apartment,999,1,1,13,19,Yes,Semi-Furnished,6681058
+Katargam,Apartment,1579,4,3,3,17,No,Furnished,6381279
+Pal,Apartment,2408,4,4,5,16,Yes,Furnished,13715509
+Athwa,Apartment,1364,2,2,0,19,No,Semi-Furnished,7595346
+Althan,Villa,1530,2,1,2,15,Yes,Furnished,10699628
+Varachha,Apartment,2801,5,5,6,17,Yes,Furnished,14207385
+City Light,Apartment,2344,5,5,3,7,Yes,Unfurnished,17370025
+Piplod,Independent House,2960,5,4,1,7,Yes,Unfurnished,21305162
+Piplod,Independent House,1690,4,4,4,18,No,Unfurnished,11399145
+Piplod,Independent House,936,1,2,11,13,No,Semi-Furnished,5943382
+Adajan,Apartment,798,1,1,3,7,Yes,Unfurnished,3913244
+Pal,Villa,1690,3,2,14,17,Yes,Unfurnished,10566352
+Vesu,Apartment,932,3,3,5,13,No,Semi-Furnished,6372760
+Vesu,Villa,1224,2,3,8,14,No,Semi-Furnished,11365196
+Katargam,Apartment,3261,5,5,6,9,Yes,Unfurnished,14140163
+City Light,Apartment,784,1,2,5,1,Yes,Unfurnished,5111647
+Piplod,Villa,2203,4,4,1,19,Yes,Semi-Furnished,18302578
+City Light,Villa,1618,3,3,7,8,No,Unfurnished,13988614
+City Light,Apartment,847,1,1,2,17,Yes,Furnished,5772627
+Adajan,Independent House,1550,3,3,14,17,No,Furnished,10198449
+Katargam,Independent House,582,1,1,3,4,No,Unfurnished,2631048
+Pal,Apartment,1665,3,3,10,6,No,Furnished,10892393
+Vesu,Apartment,928,2,2,1,0,No,Unfurnished,6434615
+Varachha,Apartment,2809,5,4,3,2,Yes,Furnished,15515663
+Katargam,Apartment,1156,2,1,9,11,Yes,Semi-Furnished,4627565
+Adajan,Independent House,1998,5,5,4,7,Yes,Unfurnished,12279984
+City Light,Independent House,2236,5,5,8,5,Yes,Semi-Furnished,21434907
+Piplod,Apartment,1367,3,4,11,9,Yes,Unfurnished,8598311
+City Light,Independent House,1691,4,4,11,20,No,Furnished,12960008
+Vesu,Apartment,1022,3,3,5,18,No,Unfurnished,6076390
+City Light,Apartment,2337,5,4,12,18,Yes,Semi-Furnished,15614967
+Katargam,Independent House,2755,5,5,11,13,Yes,Furnished,15004765
+Adajan,Apartment,3498,5,5,13,10,No,Furnished,21642249
+Dindoli,Apartment,3273,5,5,9,12,Yes,Semi-Furnished,13365269
+Athwa,Apartment,3034,5,5,14,14,Yes,Furnished,22816415
+Pal,Independent House,3248,5,5,2,7,No,Unfurnished,19053716
+Vesu,Villa,1552,4,3,14,13,Yes,Furnished,16402422
+Piplod,Independent House,1154,3,2,3,13,Yes,Unfurnished,7982024
+Varachha,Apartment,755,2,1,14,4,No,Furnished,3978483
+City Light,Apartment,2362,5,5,14,5,No,Semi-Furnished,18338471
+Althan,Apartment,2685,5,5,8,14,Yes,Furnished,16684186
+City Light,Apartment,2762,5,5,7,12,Yes,Furnished,21632616
+City Light,Independent House,2772,5,4,6,13,No,Furnished,21948268
+Athwa,Villa,2108,4,4,9,12,No,Furnished,19741381
+Athwa,Apartment,1453,3,3,13,15,Yes,Semi-Furnished,9167872
+Dindoli,Apartment,1226,3,3,0,12,Yes,Unfurnished,4126808
+Varachha,Apartment,1294,2,3,10,6,No,Semi-Furnished,6321163
+Althan,Apartment,2276,4,3,15,0,Yes,Semi-Furnished,14617942
+Vesu,Apartment,677,2,2,0,19,Yes,Unfurnished,4039993
+Athwa,Independent House,1442,3,3,11,5,Yes,Unfurnished,9764471
+Vesu,Villa,1827,4,5,12,6,Yes,Furnished,22003236
+Adajan,Apartment,3405,5,4,1,11,No,Furnished,21569414
+City Light,Independent House,601,2,3,3,13,No,Furnished,4669391
+Pal,Apartment,2333,4,4,15,14,No,Furnished,13073589
+Piplod,Apartment,904,1,2,7,14,No,Semi-Furnished,5683796
+Pal,Apartment,2547,5,5,10,8,No,Furnished,17590147
+Adajan,Independent House,1538,4,5,7,15,No,Semi-Furnished,8923865
+Piplod,Independent House,2206,5,5,11,15,No,Semi-Furnished,16871102
+City Light,Apartment,3428,5,5,8,7,Yes,Furnished,27268616
+Katargam,Independent House,3376,5,5,15,8,No,Unfurnished,15954193
+City Light,Apartment,1284,2,2,8,1,Yes,Furnished,11318806
+Varachha,Apartment,970,3,3,15,15,No,Semi-Furnished,3968442
+Varachha,Apartment,1017,3,4,15,2,Yes,Unfurnished,5192292
+Althan,Apartment,898,3,2,13,19,Yes,Furnished,5622376
+Althan,Apartment,2960,5,5,1,19,Yes,Unfurnished,14554129
+Adajan,Villa,1193,2,1,5,0,No,Semi-Furnished,9619527
+Vesu,Independent House,1498,3,3,14,2,Yes,Semi-Furnished,14024604
+Piplod,Apartment,2291,4,4,4,8,Yes,Unfurnished,16020017
+Athwa,Apartment,2881,5,5,3,14,No,Furnished,19204435
+Katargam,Apartment,2572,5,4,13,10,No,Unfurnished,11672180
+Athwa,Villa,2954,5,5,1,5,No,Furnished,33145973
+Pal,Apartment,2947,5,5,2,15,No,Semi-Furnished,16186451
+Pal,Apartment,1900,4,5,9,12,Yes,Semi-Furnished,10257471
+Adajan,Apartment,2205,5,4,14,13,Yes,Unfurnished,12440004
+Varachha,Apartment,3111,5,4,6,8,Yes,Semi-Furnished,15620154
+Adajan,Apartment,668,2,2,5,9,Yes,Furnished,3986328
+Adajan,Independent House,2440,5,5,15,9,No,Semi-Furnished,18319202
+Piplod,Apartment,2420,5,5,6,19,Yes,Unfurnished,15117238
+Dindoli,Apartment,1942,5,5,0,9,No,Furnished,8979614
+Pal,Independent House,2379,5,5,10,17,No,Semi-Furnished,14866057
+Piplod,Independent House,2892,5,5,1,10,No,Furnished,24561091
+Pal,Apartment,2578,5,5,10,3,No,Unfurnished,15167732
+Pal,Apartment,2229,5,5,2,15,No,Semi-Furnished,11734877
+Adajan,Apartment,1895,4,5,10,20,No,Furnished,9838693
+Althan,Apartment,1481,3,4,3,20,Yes,Semi-Furnished,7374671
+Vesu,Apartment,738,1,1,9,11,No,Semi-Furnished,4971412
+Athwa,Villa,3342,5,5,5,2,No,Furnished,36587502
+Athwa,Independent House,1136,2,2,14,8,Yes,Semi-Furnished,8528912
+Pal,Apartment,852,2,2,9,20,No,Furnished,4458552
+Piplod,Apartment,2125,5,4,7,12,No,Furnished,16453591
+Vesu,Independent House,3246,5,4,1,19,No,Semi-Furnished,23305780
+City Light,Apartment,1447,3,3,4,20,Yes,Furnished,9222337
+Varachha,Apartment,686,2,2,2,9,No,Furnished,2998935
+Katargam,Villa,2048,4,4,5,8,No,Semi-Furnished,11972829
+Adajan,Independent House,2468,5,5,7,12,No,Unfurnished,14011728
+Katargam,Villa,1056,2,2,12,20,No,Unfurnished,4773685
+Athwa,Apartment,2849,5,5,2,20,No,Furnished,17722080
+Pal,Independent House,735,2,2,15,3,Yes,Unfurnished,4498010
+Varachha,Apartment,2069,4,5,4,13,Yes,Semi-Furnished,9982025
+Althan,Apartment,684,2,2,14,14,Yes,Semi-Furnished,4165788
+Katargam,Apartment,3191,5,5,8,6,Yes,Semi-Furnished,14684454
+Athwa,Independent House,637,1,1,7,4,Yes,Unfurnished,4462978
+Athwa,Independent House,1434,3,3,10,4,Yes,Semi-Furnished,10581344
+Pal,Apartment,2762,5,5,3,0,Yes,Unfurnished,17733576
+Athwa,Apartment,1876,3,3,1,4,No,Furnished,12683401
+Varachha,Apartment,2032,4,3,14,16,Yes,Furnished,9919758
+Katargam,Villa,1785,3,2,1,15,No,Semi-Furnished,9107409
+Varachha,Apartment,851,3,3,4,2,Yes,Semi-Furnished,4412265
+City Light,Independent House,2110,5,5,14,16,No,Unfurnished,14408195
+Katargam,Apartment,1430,3,3,13,10,No,Semi-Furnished,5793351
+Dindoli,Independent House,1830,4,4,4,15,Yes,Unfurnished,6827098
+Adajan,Independent House,2076,5,4,10,3,No,Semi-Furnished,16448500
+Dindoli,Villa,760,2,2,11,3,Yes,Unfurnished,4056011
+Adajan,Independent House,1984,5,5,3,8,Yes,Semi-Furnished,15025100
+Athwa,Villa,3063,5,4,8,0,Yes,Semi-Furnished,30745948
+City Light,Apartment,1987,3,3,12,2,Yes,Furnished,15503545
+Katargam,Villa,1431,3,4,10,5,No,Semi-Furnished,9221894
+Athwa,Apartment,2992,5,4,4,5,Yes,Furnished,23085834
+Dindoli,Apartment,2539,5,5,8,6,Yes,Semi-Furnished,11011378
+Athwa,Apartment,2543,5,5,1,7,No,Furnished,18406997
+Piplod,Villa,1112,3,3,10,3,Yes,Semi-Furnished,10663878
+Dindoli,Apartment,2731,5,5,2,12,Yes,Semi-Furnished,11923347
+City Light,Apartment,2908,5,5,13,9,Yes,Semi-Furnished,21795062
+Athwa,Apartment,2434,5,5,2,13,Yes,Unfurnished,14646434
+Adajan,Apartment,2171,5,5,7,10,Yes,Unfurnished,11710503
+Katargam,Apartment,1344,3,3,11,20,Yes,Unfurnished,4695126
+Pal,Villa,3017,5,4,5,20,No,Semi-Furnished,20835699
+Varachha,Apartment,3339,5,5,10,4,No,Unfurnished,16343122
+Althan,Apartment,2972,5,4,9,14,No,Unfurnished,17032984
+Adajan,Independent House,3190,5,4,12,14,Yes,Semi-Furnished,20759647
+Piplod,Independent House,1866,4,4,1,14,Yes,Semi-Furnished,12852089
+Pal,Apartment,710,1,2,14,16,Yes,Semi-Furnished,3578268
+Dindoli,Apartment,1935,4,3,10,2,No,Unfurnished,7896374
+Althan,Apartment,3239,5,5,10,2,Yes,Semi-Furnished,23186918
+Dindoli,Independent House,1078,2,1,9,17,No,Furnished,4663930
+Katargam,Apartment,932,2,3,11,0,No,Semi-Furnished,4284594
+Varachha,Apartment,1336,2,2,4,2,No,Unfurnished,5824693
+Katargam,Independent House,704,2,2,12,4,Yes,Unfurnished,3750510
+Pal,Independent House,2342,4,4,7,14,No,Furnished,14249034
+Piplod,Villa,1817,5,5,6,11,No,Semi-Furnished,18225927
+Katargam,Apartment,2710,5,5,6,19,Yes,Semi-Furnished,10903083
+City Light,Apartment,2821,5,4,9,2,Yes,Semi-Furnished,23441141
+Dindoli,Apartment,925,3,3,14,11,Yes,Semi-Furnished,3988247
+Piplod,Independent House,2131,5,5,7,0,No,Unfurnished,18646570
+Pal,Apartment,1113,1,2,4,15,No,Furnished,5184426
+Althan,Apartment,1433,4,5,3,9,Yes,Semi-Furnished,8601283
+Athwa,Apartment,2422,4,5,0,20,Yes,Furnished,14831014
+Athwa,Independent House,1995,3,4,5,2,No,Unfurnished,14726032
+Katargam,Apartment,2819,5,5,1,20,No,Semi-Furnished,10044490
+Adajan,Apartment,1962,3,2,10,4,Yes,Semi-Furnished,12607285
+Pal,Independent House,3354,5,5,5,4,Yes,Furnished,25237650
+Althan,Apartment,1375,2,2,1,10,No,Furnished,8506547
+Varachha,Apartment,1587,2,2,9,11,Yes,Furnished,6939390
+City Light,Villa,2339,5,5,12,10,Yes,Semi-Furnished,23451741
+Katargam,Apartment,1642,4,5,2,13,Yes,Furnished,7122261
+City Light,Apartment,3257,5,5,13,5,No,Semi-Furnished,27145988
+City Light,Apartment,3068,5,5,1,2,No,Semi-Furnished,26340093
+Pal,Independent House,677,1,2,1,4,Yes,Unfurnished,3838847
+Dindoli,Villa,2873,5,5,14,11,No,Semi-Furnished,16296090
+Katargam,Apartment,2053,4,4,7,3,Yes,Furnished,10788793
+Katargam,Independent House,1032,2,2,14,6,No,Furnished,5510677
+Adajan,Independent House,1105,3,4,5,14,Yes,Furnished,7953134
+City Light,Apartment,3456,5,5,9,5,Yes,Semi-Furnished,26168435
+Piplod,Independent House,1118,2,3,0,11,No,Semi-Furnished,7942218
+Athwa,Independent House,903,1,2,15,16,No,Semi-Furnished,5325362
+City Light,Apartment,3181,5,5,11,4,Yes,Unfurnished,25846750
+Vesu,Apartment,1058,2,2,5,5,No,Furnished,9021840
+Katargam,Apartment,1713,4,4,6,20,No,Unfurnished,6153592
+Adajan,Apartment,2608,5,5,5,19,No,Furnished,15836667
+Adajan,Apartment,736,2,2,6,18,No,Furnished,3891633
+Katargam,Apartment,1736,4,4,15,7,No,Semi-Furnished,8359592
+Pal,Independent House,2350,5,5,6,10,Yes,Semi-Furnished,14940268
+City Light,Apartment,2183,4,4,3,10,Yes,Semi-Furnished,15710745
+Pal,Independent House,946,1,2,13,7,Yes,Semi-Furnished,6087770
+Piplod,Apartment,1202,2,3,15,9,No,Unfurnished,7471861
+Varachha,Apartment,1536,3,3,1,1,No,Semi-Furnished,7876131
+Varachha,Apartment,1720,4,3,13,4,No,Furnished,9117272
+Vesu,Apartment,2190,3,3,11,17,No,Unfurnished,13256907
+Katargam,Independent House,1695,4,3,4,3,No,Semi-Furnished,8666878
+City Light,Villa,1140,2,3,1,1,Yes,Unfurnished,11391944
+Katargam,Apartment,2421,4,4,10,19,No,Unfurnished,8872432
+Althan,Apartment,2981,5,5,9,15,Yes,Semi-Furnished,16467672
+Dindoli,Apartment,2940,5,4,15,8,Yes,Furnished,13783927
+Katargam,Independent House,3126,5,5,4,7,Yes,Furnished,16726852
+Vesu,Independent House,2356,4,4,13,6,No,Furnished,24124200
+Vesu,Independent House,3440,5,5,10,15,No,Semi-Furnished,27792290
+Katargam,Apartment,1952,4,4,15,6,Yes,Semi-Furnished,8959164
+Althan,Independent House,1733,4,5,10,15,No,Furnished,12545089
+Althan,Apartment,1728,3,4,12,11,Yes,Semi-Furnished,11043203
+Adajan,Apartment,1968,5,5,15,6,Yes,Furnished,14155773
+Althan,Apartment,1112,1,1,7,1,Yes,Furnished,6881554
+City Light,Villa,3488,5,5,0,17,Yes,Semi-Furnished,33792252
+Varachha,Villa,2505,5,5,10,9,Yes,Unfurnished,14723529
+Vesu,Independent House,1267,2,2,1,12,No,Unfurnished,9395166
+Althan,Apartment,703,1,1,10,9,No,Furnished,4239428
+Pal,Apartment,2615,5,5,3,10,Yes,Furnished,15772121
+Pal,Apartment,607,2,2,6,5,No,Semi-Furnished,3187996
+Adajan,Apartment,1306,4,5,10,7,Yes,Semi-Furnished,8294809
+Althan,Apartment,1900,3,2,8,20,No,Furnished,10412863
+Varachha,Apartment,1806,3,3,3,20,No,Semi-Furnished,6499651
+Pal,Independent House,2508,4,4,13,17,No,Furnished,16195337
+Piplod,Independent House,3336,5,4,14,16,No,Unfurnished,21468039
+Katargam,Villa,2620,5,5,5,10,No,Unfurnished,15314729
+Varachha,Apartment,922,3,4,1,14,Yes,Furnished,4364666
+Katargam,Villa,2443,5,5,0,12,No,Unfurnished,13478133
+Vesu,Apartment,2285,4,3,1,2,No,Unfurnished,16393685
+Pal,Apartment,3177,5,5,11,12,No,Semi-Furnished,18476683
+Katargam,Apartment,1094,2,2,3,5,No,Furnished,5415473
+Vesu,Apartment,643,2,3,13,17,No,Unfurnished,3951087
+Althan,Apartment,1322,4,3,1,13,Yes,Unfurnished,6656555
+Vesu,Apartment,2378,5,4,7,1,No,Semi-Furnished,19614794
+Vesu,Apartment,1123,2,2,7,18,No,Furnished,7725115
+City Light,Apartment,1520,3,3,7,13,No,Semi-Furnished,10876370
+Pal,Apartment,3114,5,5,1,11,No,Furnished,18745354
+Pal,Apartment,1778,3,4,7,7,No,Furnished,10766584
+Vesu,Apartment,2853,5,5,4,12,Yes,Semi-Furnished,22219622
+Varachha,Apartment,2069,3,3,1,8,No,Furnished,9198713
+Adajan,Independent House,1320,3,3,15,6,No,Semi-Furnished,8292401
+Piplod,Independent House,1030,3,4,7,19,Yes,Semi-Furnished,7158064
+Althan,Independent House,2109,4,4,9,8,No,Furnished,15680819
+Varachha,Independent House,1861,5,5,10,13,Yes,Furnished,10963947
+Vesu,Apartment,1618,3,4,9,4,Yes,Semi-Furnished,13147518
+Piplod,Apartment,2595,5,5,8,15,No,Semi-Furnished,18314609
+Pal,Apartment,1123,3,4,5,17,Yes,Furnished,6494864
+Vesu,Apartment,576,1,1,2,4,Yes,Unfurnished,3908042
+Athwa,Apartment,3162,5,5,15,0,Yes,Furnished,24658642
+Katargam,Apartment,1675,3,3,0,16,No,Unfurnished,5491703
+Pal,Apartment,1537,2,2,11,8,No,Unfurnished,7551040
+Athwa,Apartment,1546,4,4,9,2,Yes,Unfurnished,10526558
+Varachha,Independent House,779,2,2,2,15,No,Furnished,3712838
+Adajan,Apartment,2713,5,5,6,18,No,Semi-Furnished,13667854
+Althan,Apartment,2774,5,4,5,10,Yes,Unfurnished,16698675
+Dindoli,Villa,865,1,1,12,17,No,Semi-Furnished,3726373
+Adajan,Independent House,2601,5,5,1,3,No,Unfurnished,17394392
+Athwa,Apartment,2989,5,5,0,20,No,Semi-Furnished,17021516
+Dindoli,Villa,2318,4,5,2,19,No,Unfurnished,9583395
+Pal,Apartment,2106,5,5,12,10,No,Unfurnished,12318343
+Varachha,Apartment,2024,5,4,4,2,Yes,Semi-Furnished,10776225
+Dindoli,Apartment,973,1,1,2,19,No,Semi-Furnished,2961533
+Adajan,Apartment,2841,5,5,5,12,Yes,Unfurnished,15157576
+Pal,Apartment,809,1,1,13,9,No,Unfurnished,4272823
+Varachha,Independent House,2982,5,5,3,4,No,Unfurnished,15410490
+Athwa,Independent House,2106,5,5,14,10,No,Furnished,16522634
+City Light,Independent House,3020,5,5,15,10,Yes,Semi-Furnished,24848743
+Varachha,Apartment,2908,5,5,12,8,No,Semi-Furnished,14457884
+Athwa,Independent House,2784,5,4,14,6,No,Semi-Furnished,20741735
+Dindoli,Apartment,3306,5,5,7,8,Yes,Furnished,15156412
+Varachha,Villa,2999,5,5,13,17,Yes,Semi-Furnished,18565658
+Athwa,Apartment,3163,5,4,7,11,Yes,Furnished,23055458
+Dindoli,Apartment,1908,5,5,3,0,Yes,Semi-Furnished,9547193
+Katargam,Independent House,2927,5,5,14,11,No,Semi-Furnished,14986199
+Katargam,Independent House,1167,2,1,15,3,No,Semi-Furnished,5527627
+Pal,Apartment,1976,4,5,6,16,No,Semi-Furnished,10136086
+Varachha,Apartment,1856,3,2,3,0,No,Furnished,10245286
+Piplod,Apartment,2663,5,5,10,17,No,Semi-Furnished,17207496
+Pal,Apartment,1313,3,4,12,0,Yes,Semi-Furnished,8284142
+Piplod,Apartment,1392,2,1,3,17,Yes,Semi-Furnished,8014589
+Althan,Apartment,3297,5,5,12,19,No,Furnished,19133213
+Varachha,Apartment,3078,5,5,2,4,No,Unfurnished,13681712
+City Light,Apartment,3390,5,5,13,19,Yes,Furnished,23162234
+Katargam,Apartment,3390,5,5,5,15,No,Unfurnished,13956061
+Athwa,Independent House,769,2,1,15,4,Yes,Semi-Furnished,6019023
+Varachha,Apartment,2225,5,5,14,15,Yes,Unfurnished,10027100
+Piplod,Villa,1746,3,3,9,5,No,Furnished,18882756
+Katargam,Independent House,2642,5,4,8,17,No,Furnished,11993211
+Varachha,Independent House,2787,5,5,3,20,Yes,Semi-Furnished,11933903
+Althan,Independent House,1977,5,4,14,3,Yes,Unfurnished,14499395
+City Light,Independent House,3461,5,5,5,19,Yes,Unfurnished,24985889
+Athwa,Apartment,1986,4,4,10,9,No,Furnished,15158809
+Adajan,Independent House,1105,3,4,1,8,Yes,Furnished,7574794
+City Light,Apartment,1563,4,5,15,4,No,Furnished,13469783
+Adajan,Apartment,2200,4,4,11,14,No,Semi-Furnished,12991890
+Adajan,Independent House,2427,5,5,2,17,No,Unfurnished,14500080
+Varachha,Independent House,1649,3,3,10,17,Yes,Furnished,8594545
+Vesu,Apartment,738,1,2,0,3,Yes,Semi-Furnished,5931609
+Dindoli,Villa,1378,4,4,9,5,No,Unfurnished,7230733
+City Light,Villa,3271,5,5,1,12,No,Furnished,33052566
+Adajan,Apartment,3432,5,5,15,2,Yes,Furnished,25972128
+Vesu,Apartment,583,2,1,13,4,No,Unfurnished,3976793
+Adajan,Independent House,972,2,2,4,12,Yes,Furnished,5963185
+Katargam,Villa,2857,5,5,14,11,Yes,Furnished,20128558
+Athwa,Apartment,3362,5,5,2,3,Yes,Unfurnished,22914926
+Dindoli,Apartment,1838,4,4,8,20,Yes,Unfurnished,6316063
+Athwa,Apartment,1717,4,3,9,6,Yes,Furnished,13219652
+Piplod,Independent House,2577,5,5,15,20,Yes,Furnished,18257303
+City Light,Independent House,1846,3,4,11,17,Yes,Semi-Furnished,13996263
+Vesu,Apartment,2955,5,5,6,1,Yes,Semi-Furnished,26482768
+Katargam,Apartment,2251,4,5,2,20,Yes,Semi-Furnished,8077339
+Piplod,Independent House,1186,2,3,2,9,No,Furnished,8934344
+Piplod,Villa,903,3,2,14,19,Yes,Semi-Furnished,7661994
+Pal,Apartment,1039,1,1,0,5,No,Semi-Furnished,5574011
+Althan,Apartment,1233,2,2,3,0,No,Semi-Furnished,7155231
+Athwa,Apartment,3120,5,5,11,1,No,Furnished,24394538
+Adajan,Independent House,2900,5,4,7,16,Yes,Unfurnished,15500767
+Vesu,Apartment,2482,5,5,5,1,No,Unfurnished,19867108
+City Light,Apartment,1661,4,4,3,16,Yes,Unfurnished,10406124
+Vesu,Apartment,2192,4,5,9,9,No,Unfurnished,14495932
+Piplod,Independent House,1744,4,4,7,14,No,Furnished,14969384
+Piplod,Apartment,2788,5,5,4,0,No,Unfurnished,20646709
+Vesu,Independent House,1922,3,4,9,3,Yes,Furnished,18493505
+Vesu,Independent House,1133,3,2,1,7,No,Furnished,9960657
+Adajan,Villa,2928,5,5,12,2,Yes,Semi-Furnished,25226255
+Althan,Apartment,1619,4,5,10,10,No,Semi-Furnished,10679156
+Pal,Apartment,2944,5,4,5,14,No,Semi-Furnished,15946232
+Piplod,Apartment,2401,4,4,3,2,Yes,Furnished,20650511
+Athwa,Apartment,715,1,1,4,2,Yes,Semi-Furnished,4431367
+Althan,Villa,1615,4,4,0,12,No,Furnished,13039854
+Varachha,Apartment,967,3,3,3,0,Yes,Unfurnished,4906439
+City Light,Apartment,3361,5,4,8,2,Yes,Unfurnished,26452961
+Pal,Apartment,926,3,3,3,1,No,Unfurnished,5224093
+Dindoli,Apartment,2582,4,5,5,11,Yes,Unfurnished,9701832
+Pal,Apartment,691,2,2,9,15,No,Furnished,3479611
+Dindoli,Apartment,1112,2,2,0,12,No,Semi-Furnished,3910580
+Athwa,Apartment,2607,5,5,5,0,No,Furnished,23095729
+Althan,Apartment,789,2,3,11,18,Yes,Unfurnished,4159115
+Althan,Independent House,2735,5,4,7,18,No,Semi-Furnished,18155313
+Pal,Villa,1271,2,2,11,18,Yes,Furnished,9392946
+Athwa,Apartment,1132,2,2,15,17,No,Unfurnished,5635750
+Piplod,Apartment,3014,5,5,0,10,Yes,Unfurnished,19178029
+City Light,Apartment,793,1,1,3,16,No,Unfurnished,4609012
+Dindoli,Independent House,2950,5,5,10,4,Yes,Furnished,17090590
+Varachha,Apartment,3209,5,5,7,18,Yes,Semi-Furnished,14179647
+Pal,Apartment,1277,3,4,1,5,No,Furnished,7961286
+Varachha,Apartment,1126,2,1,7,11,No,Unfurnished,4704755
+City Light,Independent House,2379,4,4,7,2,No,Semi-Furnished,22020649
+Vesu,Apartment,2130,4,5,5,13,No,Semi-Furnished,15149987
+Varachha,Apartment,2917,5,5,5,14,Yes,Unfurnished,11977335
+Adajan,Apartment,853,1,2,5,2,Yes,Semi-Furnished,5239639
+Varachha,Apartment,3435,5,5,13,5,Yes,Unfurnished,17763531
+Dindoli,Apartment,3405,5,5,9,9,Yes,Unfurnished,13780821
+Varachha,Apartment,1179,1,1,13,2,No,Furnished,5870551
+Adajan,Independent House,655,1,1,2,15,Yes,Semi-Furnished,3661596
+Althan,Apartment,923,2,3,5,11,No,Semi-Furnished,4767125
+Varachha,Villa,2454,4,4,1,4,Yes,Unfurnished,15963275
+Dindoli,Villa,2965,5,4,12,16,No,Furnished,17599452
+Athwa,Independent House,1515,3,2,12,1,Yes,Unfurnished,11245602
+Pal,Apartment,1417,3,3,1,13,Yes,Furnished,8559759
+Pal,Apartment,2987,5,4,2,12,No,Furnished,17147049
+Varachha,Apartment,600,2,3,3,13,Yes,Unfurnished,2527068
+Adajan,Apartment,982,2,1,9,17,No,Semi-Furnished,4975960
+Athwa,Apartment,3044,5,5,8,12,Yes,Furnished,22644859
+Vesu,Independent House,2171,5,5,7,1,No,Semi-Furnished,19623915
+Althan,Independent House,1823,3,4,3,7,Yes,Semi-Furnished,12377686
+City Light,Villa,1653,4,3,6,14,Yes,Semi-Furnished,15834084
+City Light,Independent House,780,2,2,2,9,No,Unfurnished,5460031
+Athwa,Apartment,668,1,1,1,7,Yes,Semi-Furnished,4054622
+Piplod,Apartment,1672,3,4,12,20,Yes,Furnished,10650476
+Athwa,Villa,2377,4,5,11,11,Yes,Semi-Furnished,21861795
+Althan,Apartment,662,1,1,6,7,Yes,Furnished,4293503
+Katargam,Independent House,632,2,1,15,4,Yes,Furnished,3591673
+Athwa,Apartment,1801,4,4,13,12,No,Semi-Furnished,11614305
+Katargam,Apartment,3104,5,4,0,16,No,Furnished,13804922
+Althan,Apartment,3353,5,4,10,8,No,Semi-Furnished,21991563
+Althan,Apartment,1321,2,2,1,19,No,Furnished,6435563
+Vesu,Villa,3234,5,5,8,13,No,Semi-Furnished,32966471
+Athwa,Independent House,1327,2,2,15,11,No,Unfurnished,8983246
+Pal,Independent House,1753,3,3,8,17,Yes,Furnished,10732204
+Piplod,Apartment,2005,3,3,13,10,No,Semi-Furnished,13435532
+Adajan,Apartment,2477,4,3,15,6,Yes,Furnished,16081210
+Vesu,Apartment,1167,2,2,10,13,No,Unfurnished,7576072
+Adajan,Apartment,2547,5,5,10,20,Yes,Unfurnished,12125197
+Pal,Apartment,2910,5,5,2,4,No,Furnished,19276233
+Varachha,Apartment,2120,3,3,11,0,No,Furnished,11827564
+Piplod,Apartment,1476,3,3,9,4,Yes,Semi-Furnished,10570112
+Adajan,Independent House,737,1,1,14,16,No,Semi-Furnished,4504525
+City Light,Apartment,2557,5,5,5,12,Yes,Unfurnished,18863721
+Piplod,Independent House,639,1,1,3,11,Yes,Semi-Furnished,4319133
+Katargam,Villa,3102,5,4,3,20,Yes,Unfurnished,14880621
+Dindoli,Apartment,1056,2,3,4,6,Yes,Semi-Furnished,4091881
+Katargam,Apartment,1655,4,4,13,3,Yes,Semi-Furnished,7749222
+Piplod,Apartment,3044,5,5,6,11,No,Semi-Furnished,21784315
+Piplod,Apartment,3368,5,5,7,0,Yes,Furnished,28044928
+Athwa,Apartment,3290,5,4,2,3,No,Furnished,28040043
+Althan,Independent House,1631,3,2,5,1,No,Semi-Furnished,11280593
+Adajan,Apartment,939,3,2,0,4,Yes,Semi-Furnished,5662760
+Athwa,Apartment,1648,4,3,11,10,Yes,Unfurnished,11020842
+Althan,Apartment,2129,5,5,13,20,Yes,Unfurnished,11469502
+Pal,Apartment,974,2,3,14,5,No,Semi-Furnished,5986674
+Pal,Apartment,2528,5,4,13,14,Yes,Unfurnished,12678479
+Katargam,Villa,2911,5,5,10,16,Yes,Semi-Furnished,15863948
+City Light,Apartment,3268,5,5,4,17,Yes,Unfurnished,19585043
+Varachha,Independent House,2580,5,4,15,10,Yes,Semi-Furnished,12942429
+Piplod,Independent House,2804,5,5,7,2,No,Semi-Furnished,24870745
+Varachha,Apartment,2381,4,5,0,3,No,Semi-Furnished,11984731
+Adajan,Apartment,3024,5,5,6,20,No,Semi-Furnished,14706165
+Piplod,Villa,2411,4,5,11,14,Yes,Unfurnished,19438886
+City Light,Apartment,2004,5,5,11,3,Yes,Unfurnished,16441679
+Dindoli,Apartment,988,1,1,6,3,No,Unfurnished,3795650
+City Light,Apartment,991,2,1,3,14,No,Furnished,6610700
+Varachha,Independent House,567,1,1,13,18,No,Furnished,2911720
+Athwa,Independent House,1261,3,3,3,12,No,Furnished,9167396
+Athwa,Independent House,3386,5,5,12,10,No,Semi-Furnished,24397455
+Athwa,Apartment,3417,5,5,10,17,Yes,Unfurnished,20511799
+City Light,Apartment,3304,5,5,10,3,No,Furnished,29648163
+Dindoli,Apartment,3311,5,5,13,0,Yes,Unfurnished,13849174
+Vesu,Villa,1368,2,2,9,8,Yes,Unfurnished,11988238
+Katargam,Apartment,682,1,2,3,19,Yes,Furnished,2663051
+Katargam,Apartment,3401,5,4,12,12,No,Furnished,16183435
+Vesu,Apartment,1579,3,4,7,20,No,Furnished,10952660
+Piplod,Apartment,1754,3,2,5,5,Yes,Semi-Furnished,12028057
+Althan,Independent House,1082,1,1,0,10,No,Furnished,6291616
+City Light,Independent House,2994,5,5,15,18,No,Unfurnished,20421766
+Piplod,Apartment,1303,3,3,13,17,No,Unfurnished,7997511
+City Light,Villa,1906,4,4,15,17,Yes,Unfurnished,15867704
+Athwa,Apartment,3094,5,4,10,12,Yes,Semi-Furnished,21234593
+Vesu,Independent House,2667,5,5,14,15,Yes,Semi-Furnished,20939746
+Katargam,Villa,887,3,3,0,20,Yes,Unfurnished,4308435
+Dindoli,Villa,975,1,2,2,4,Yes,Semi-Furnished,4840008
+Adajan,Apartment,772,1,1,2,18,Yes,Semi-Furnished,3670954
+Dindoli,Villa,2323,4,5,3,17,Yes,Furnished,11644142
+Athwa,Independent House,736,2,1,11,16,Yes,Semi-Furnished,4733872
+Adajan,Apartment,1703,4,5,12,12,Yes,Semi-Furnished,9695718
+Dindoli,Apartment,2785,5,5,9,20,No,Unfurnished,9520443
+Adajan,Villa,721,1,2,2,9,Yes,Furnished,5887977
+Piplod,Independent House,2240,5,5,5,5,Yes,Furnished,19971830
+Pal,Villa,3298,5,4,14,20,Yes,Semi-Furnished,21372462
+Piplod,Apartment,2928,5,5,11,4,Yes,Unfurnished,20036638
+Piplod,Apartment,1851,4,4,9,18,Yes,Furnished,13251563
+Dindoli,Independent House,1240,1,1,7,20,No,Semi-Furnished,4071313
+City Light,Apartment,2515,5,5,9,15,Yes,Unfurnished,15500532
+Althan,Apartment,1123,3,3,8,20,Yes,Furnished,5845316
+Katargam,Independent House,3137,5,5,6,1,No,Furnished,19278951
+Pal,Apartment,2048,4,4,4,14,Yes,Semi-Furnished,10058049
+Piplod,Independent House,3065,5,5,14,5,Yes,Furnished,29581187
+Pal,Apartment,2530,5,4,7,15,Yes,Unfurnished,12203057
+Piplod,Apartment,2671,5,5,12,15,No,Unfurnished,17250269
+Adajan,Villa,3432,5,5,8,18,Yes,Semi-Furnished,24628821
+Adajan,Independent House,2666,5,5,12,11,No,Semi-Furnished,19103256
+Vesu,Apartment,2605,5,5,5,7,Yes,Furnished,21860957
+Pal,Apartment,1194,2,1,7,13,No,Furnished,6492564
+Varachha,Apartment,1413,3,4,0,7,Yes,Unfurnished,5825521
+Katargam,Apartment,710,2,2,1,5,No,Unfurnished,2751966
+Athwa,Independent House,3161,5,5,2,6,No,Furnished,28867405
+Pal,Villa,1448,4,4,5,19,No,Unfurnished,8659042
+Varachha,Apartment,2993,5,5,12,12,Yes,Unfurnished,13227510
+Katargam,Apartment,3353,5,5,3,5,No,Furnished,18380726
+Katargam,Apartment,2611,5,4,15,4,Yes,Furnished,14051606
+City Light,Apartment,727,2,3,7,15,No,Semi-Furnished,4848651
+Athwa,Apartment,950,2,2,15,7,Yes,Semi-Furnished,6473482
+Althan,Villa,1324,2,1,3,16,Yes,Semi-Furnished,9327188
+City Light,Independent House,2224,4,4,13,20,No,Semi-Furnished,15489786
+City Light,Apartment,3056,5,5,6,13,No,Unfurnished,20598545
+Althan,Independent House,1806,4,5,4,3,Yes,Semi-Furnished,14561522
+Adajan,Apartment,1428,3,3,1,5,No,Furnished,8530514
+Pal,Apartment,2481,5,5,2,2,No,Unfurnished,14943923
+Dindoli,Apartment,2191,5,5,1,5,No,Semi-Furnished,10205689
+Katargam,Villa,1721,3,3,5,1,No,Unfurnished,10849812
+Adajan,Apartment,1680,4,4,12,12,Yes,Furnished,11003254
+Adajan,Independent House,2801,5,5,11,8,Yes,Furnished,21204228
+Dindoli,Apartment,2904,5,5,13,16,Yes,Furnished,11957760
+Adajan,Villa,2652,5,5,14,12,No,Unfurnished,21263467
+Varachha,Apartment,3341,5,4,15,3,No,Unfurnished,16894034
+Piplod,Independent House,3322,5,5,13,11,Yes,Furnished,27682198
+Adajan,Apartment,2184,5,5,2,17,Yes,Semi-Furnished,11550385
+Athwa,Apartment,1652,3,3,15,6,Yes,Furnished,11778919
+Piplod,Villa,1380,3,3,4,3,Yes,Unfurnished,13098644
+Athwa,Independent House,577,2,1,15,11,No,Semi-Furnished,4359972
+Athwa,Apartment,1675,3,3,12,7,Yes,Unfurnished,10419106
+Katargam,Apartment,683,1,2,5,14,Yes,Furnished,2868844
+Vesu,Independent House,598,2,3,3,10,No,Furnished,4804238
+Althan,Apartment,1521,3,3,11,5,No,Semi-Furnished,9814200
+City Light,Villa,2045,5,5,14,5,Yes,Furnished,25430124
+Althan,Independent House,1515,3,4,6,4,Yes,Semi-Furnished,10334749
+Varachha,Independent House,1100,3,3,15,9,No,Furnished,5746582
+Adajan,Villa,3378,5,5,8,15,Yes,Semi-Furnished,24906136
+City Light,Apartment,2845,5,5,11,0,No,Unfurnished,23282747
+Athwa,Apartment,1364,3,3,9,11,No,Furnished,9654319
+Varachha,Apartment,871,2,2,14,20,Yes,Unfurnished,3651859
+Dindoli,Apartment,3135,5,5,2,2,Yes,Semi-Furnished,14123379
+Althan,Apartment,3459,5,5,8,14,No,Furnished,23659062
+Dindoli,Villa,1235,2,1,4,7,No,Furnished,6343265
+Pal,Independent House,2176,4,3,15,17,Yes,Unfurnished,11716969
+Adajan,Apartment,975,1,1,2,20,No,Semi-Furnished,4461547
+Varachha,Independent House,3116,5,5,0,1,No,Semi-Furnished,18281591
+Katargam,Villa,1665,3,3,5,18,No,Furnished,9545801
+Dindoli,Apartment,2694,5,5,11,15,Yes,Unfurnished,9853554
+Althan,Apartment,1187,2,1,4,11,No,Semi-Furnished,6569704
+Varachha,Apartment,2504,5,5,9,19,Yes,Unfurnished,9489479
+Katargam,Apartment,2340,4,4,12,12,Yes,Semi-Furnished,10434309
+Katargam,Apartment,3061,5,5,9,20,No,Semi-Furnished,11189740
+Pal,Apartment,1736,3,4,14,8,No,Unfurnished,8680022
+Katargam,Apartment,640,1,1,9,8,Yes,Furnished,2824827
+Adajan,Independent House,1167,1,1,10,13,No,Semi-Furnished,6536112
+Vesu,Apartment,1902,3,3,1,8,No,Unfurnished,12275218
+Althan,Villa,2112,5,4,7,12,No,Unfurnished,14729603
+Varachha,Apartment,934,2,2,15,12,No,Semi-Furnished,4275630
+Katargam,Independent House,2683,5,5,9,6,No,Unfurnished,12769674
+Adajan,Apartment,1516,3,3,0,5,No,Furnished,10110722
+Vesu,Apartment,722,2,3,4,11,Yes,Unfurnished,4525417
+Athwa,Apartment,1936,5,4,1,11,Yes,Furnished,13081305
+Varachha,Apartment,1503,3,3,14,6,Yes,Furnished,8200857
+Althan,Apartment,711,1,2,9,17,No,Unfurnished,3396597
+City Light,Apartment,2468,4,4,2,16,Yes,Semi-Furnished,15785279
+City Light,Apartment,2409,4,5,5,0,No,Furnished,22254006
+Katargam,Apartment,2137,4,5,4,19,No,Semi-Furnished,7995741
+Adajan,Apartment,2693,5,4,4,5,Yes,Unfurnished,15357648
+Vesu,Apartment,2888,5,5,15,16,No,Unfurnished,19747330
+Adajan,Apartment,603,2,2,15,2,No,Furnished,4231395
+Dindoli,Apartment,2061,5,4,8,16,Yes,Furnished,8423187
+Piplod,Villa,2677,5,5,12,6,Yes,Furnished,30244232
+Pal,Apartment,2837,5,5,3,20,No,Furnished,15613122
+Adajan,Independent House,1233,3,4,10,5,No,Semi-Furnished,8575267
+City Light,Apartment,2072,4,5,10,19,Yes,Furnished,14326831
+Katargam,Apartment,1590,3,4,14,12,Yes,Furnished,7217955
+Vesu,Independent House,2670,5,5,0,9,Yes,Unfurnished,20268631
+Althan,Apartment,2817,5,5,3,1,No,Semi-Furnished,18875549
+Athwa,Independent House,1573,3,3,2,18,No,Furnished,10972576
+City Light,Independent House,2526,4,3,9,1,No,Unfurnished,22469394
+City Light,Villa,1975,5,5,13,3,Yes,Furnished,24353442
+Vesu,Apartment,3146,5,5,1,9,Yes,Semi-Furnished,23437555
+Katargam,Apartment,3408,5,4,12,14,Yes,Unfurnished,14316242
+Pal,Apartment,1091,2,3,1,17,No,Semi-Furnished,5061668
+Pal,Apartment,1102,2,2,15,12,Yes,Furnished,6623065
+Piplod,Villa,1542,2,3,10,18,Yes,Unfurnished,11290489
+City Light,Independent House,1330,2,1,9,5,No,Furnished,11864953
+Athwa,Independent House,1147,2,2,6,11,Yes,Furnished,7933769
+Vesu,Independent House,1545,4,4,9,0,No,Furnished,15470140
+Varachha,Apartment,643,1,1,6,17,No,Furnished,2721444
+Pal,Apartment,3397,5,4,12,18,Yes,Semi-Furnished,16975735
+Athwa,Independent House,1661,2,1,2,12,No,Furnished,11794443
+Adajan,Apartment,628,1,2,7,12,Yes,Semi-Furnished,3534987
+Adajan,Apartment,1313,2,3,0,1,Yes,Furnished,8695263
+Pal,Independent House,625,1,1,11,20,No,Unfurnished,3204304
+Althan,Apartment,803,2,3,0,17,No,Unfurnished,3958865
+Pal,Independent House,909,2,2,13,7,Yes,Semi-Furnished,6222058
+City Light,Apartment,2389,5,5,4,18,Yes,Unfurnished,15491069
+Katargam,Apartment,1103,2,2,5,10,Yes,Furnished,5156978
+Pal,Apartment,1850,4,4,0,10,No,Semi-Furnished,10557933
+Althan,Apartment,1172,3,2,4,5,Yes,Furnished,7996944
+Athwa,Independent House,1495,3,3,0,11,Yes,Furnished,10597075
+Athwa,Apartment,2470,5,5,5,12,No,Semi-Furnished,15539803
+Vesu,Villa,2223,5,4,8,13,Yes,Furnished,22950424
+Piplod,Apartment,820,1,2,15,10,No,Unfurnished,5242489
+Athwa,Apartment,2108,5,5,1,16,Yes,Semi-Furnished,14071051
+Piplod,Apartment,2674,5,4,12,16,Yes,Unfurnished,16339091
+Althan,Apartment,1721,3,4,9,19,Yes,Furnished,9232471
+Varachha,Apartment,920,2,1,5,18,Yes,Semi-Furnished,3613339
+Pal,Villa,2408,5,5,14,2,No,Semi-Furnished,22339387
+Pal,Apartment,3492,5,4,3,14,No,Unfurnished,17103848
+Katargam,Apartment,3057,5,5,12,1,Yes,Semi-Furnished,16196116
+Pal,Villa,1214,3,3,1,13,No,Semi-Furnished,8908646
+Althan,Apartment,3115,5,5,6,0,No,Unfurnished,21651575
+Katargam,Apartment,573,1,2,7,6,No,Semi-Furnished,2305593
+Athwa,Apartment,576,1,1,6,1,Yes,Unfurnished,3649521
+Pal,Apartment,682,2,2,10,2,Yes,Unfurnished,3766473
+Althan,Apartment,3053,5,5,14,18,No,Unfurnished,15463491
+City Light,Apartment,2102,5,5,2,9,No,Unfurnished,15634752
+City Light,Apartment,2708,5,5,6,19,Yes,Unfurnished,18044124
+Katargam,Apartment,909,2,2,13,19,No,Semi-Furnished,3729641
+City Light,Apartment,1081,2,3,15,15,Yes,Furnished,7510314
+Piplod,Apartment,556,1,2,3,6,No,Semi-Furnished,3559061
+Piplod,Apartment,596,1,1,8,2,No,Semi-Furnished,4052595
+Vesu,Apartment,1016,2,2,12,18,Yes,Unfurnished,6531522
+Varachha,Independent House,2493,5,5,15,4,No,Furnished,15582163
+Dindoli,Apartment,779,2,2,10,17,Yes,Unfurnished,2729467
+City Light,Apartment,821,3,3,0,10,No,Furnished,5741694
+Athwa,Apartment,2145,4,3,9,10,Yes,Semi-Furnished,14123382
+Piplod,Apartment,2072,4,4,6,16,No,Unfurnished,12854990
+Piplod,Apartment,929,2,1,15,16,Yes,Unfurnished,5463777
+Katargam,Villa,1821,4,4,3,16,Yes,Unfurnished,9186081
+Katargam,Apartment,1024,1,1,2,10,No,Unfurnished,3773183
+Althan,Apartment,642,1,1,6,10,Yes,Unfurnished,3445958
+Varachha,Independent House,3298,5,5,5,8,Yes,Unfurnished,17017694
+Adajan,Apartment,1396,3,3,8,4,No,Furnished,8580344
+Athwa,Apartment,1937,4,3,4,0,No,Furnished,15025823
+Adajan,Villa,2296,4,5,11,9,No,Unfurnished,17806640
+Katargam,Apartment,871,3,4,4,2,No,Unfurnished,3948941
+Varachha,Apartment,2477,4,4,4,19,No,Semi-Furnished,10200267
+City Light,Apartment,1880,4,3,2,15,Yes,Semi-Furnished,13275052
+Althan,Apartment,1977,4,4,3,12,Yes,Semi-Furnished,10859357
+Althan,Apartment,2732,5,5,7,19,Yes,Furnished,16299288
+Adajan,Villa,1945,3,4,13,18,No,Furnished,13710313
+Adajan,Apartment,3465,5,5,3,18,No,Semi-Furnished,19574662
+Pal,Apartment,1811,5,4,3,19,No,Semi-Furnished,9285556
+Adajan,Apartment,1441,4,3,4,4,No,Furnished,9865070
+Varachha,Villa,1351,2,2,9,18,No,Semi-Furnished,7392197
+Adajan,Independent House,2936,5,5,4,9,Yes,Semi-Furnished,21818623
+Vesu,Apartment,3430,5,5,3,9,Yes,Unfurnished,25587181
+City Light,Apartment,3465,5,5,13,17,Yes,Furnished,24193035
+Katargam,Apartment,2125,5,5,13,4,No,Furnished,10511135
+Vesu,Apartment,1139,3,4,13,4,Yes,Unfurnished,8634371
+Varachha,Independent House,3398,5,5,5,14,No,Furnished,18013506
+Piplod,Independent House,1311,2,1,15,7,No,Semi-Furnished,9980939
+Vesu,Apartment,705,2,2,3,18,No,Furnished,4857083
+Katargam,Villa,1694,3,2,2,7,No,Furnished,11235936
+Adajan,Apartment,3351,5,5,1,10,Yes,Semi-Furnished,21651994
+Athwa,Independent House,1907,4,4,9,5,Yes,Furnished,17023983
+Athwa,Independent House,1616,2,3,5,18,Yes,Furnished,11323049
+Athwa,Apartment,661,1,1,4,16,Yes,Semi-Furnished,3789964
+Althan,Apartment,1602,2,1,5,18,Yes,Furnished,8992437
+Althan,Apartment,3420,5,5,1,10,Yes,Unfurnished,20875448
+Varachha,Apartment,2241,5,5,14,20,Yes,Unfurnished,9463124
+Vesu,Apartment,3180,5,4,1,5,No,Semi-Furnished,25841961
+Katargam,Independent House,1507,3,4,15,8,Yes,Furnished,7690096
+Varachha,Apartment,2114,5,4,3,17,No,Semi-Furnished,9153825
+Althan,Independent House,1922,3,2,8,20,No,Semi-Furnished,11051747
+Athwa,Apartment,1348,3,3,10,17,Yes,Furnished,8012297
+Dindoli,Apartment,950,2,3,11,7,No,Semi-Furnished,3609904
+Adajan,Apartment,782,2,2,3,3,Yes,Furnished,5273560
+Athwa,Independent House,1306,3,3,8,9,No,Furnished,10368588
+Althan,Independent House,2298,5,5,8,5,Yes,Semi-Furnished,17038120
+City Light,Independent House,796,1,1,5,14,Yes,Semi-Furnished,5303144
+Dindoli,Apartment,1280,3,2,4,17,No,Unfurnished,3866617
+Varachha,Apartment,3480,5,4,2,2,No,Semi-Furnished,17929403
+Vesu,Apartment,704,2,2,4,10,No,Furnished,5441590
+Varachha,Independent House,2508,5,4,7,0,No,Furnished,16104121
+Athwa,Apartment,2742,5,5,10,9,No,Unfurnished,18995732
+Adajan,Apartment,2046,4,4,2,14,No,Furnished,12200975
+Dindoli,Apartment,3256,5,5,3,20,No,Semi-Furnished,11903590
+Piplod,Independent House,1123,1,1,7,15,No,Unfurnished,6875542
+Varachha,Apartment,2737,5,5,0,1,No,Unfurnished,13878230
+Dindoli,Apartment,1034,1,2,4,18,Yes,Unfurnished,3097667
+Vesu,Apartment,2480,5,4,7,20,Yes,Unfurnished,14431971
+Althan,Apartment,948,2,2,2,3,Yes,Semi-Furnished,5984236
+Adajan,Independent House,1380,3,4,10,3,Yes,Semi-Furnished,10372100
+Vesu,Apartment,2979,5,4,3,8,Yes,Semi-Furnished,23111432
+Pal,Apartment,2346,4,3,4,3,No,Unfurnished,13032907
+Vesu,Apartment,579,1,1,9,13,No,Furnished,3880191
+Althan,Apartment,2692,5,5,5,19,Yes,Furnished,16060974
+Adajan,Apartment,3118,5,5,11,13,Yes,Furnished,18637519
+Katargam,Apartment,941,2,2,14,20,Yes,Semi-Furnished,3490178
+Pal,Independent House,3356,5,5,15,5,Yes,Furnished,23548604
+City Light,Apartment,1717,3,3,10,19,No,Unfurnished,9129167
+Katargam,Independent House,1270,2,1,15,16,Yes,Unfurnished,5445033
+Athwa,Apartment,2924,5,5,10,7,Yes,Semi-Furnished,20091050
+Dindoli,Independent House,1369,2,2,2,15,No,Unfurnished,4589150
+Athwa,Apartment,2413,4,4,4,14,Yes,Furnished,15646464
+City Light,Apartment,1071,1,1,8,4,Yes,Semi-Furnished,7216347
+City Light,Apartment,1450,4,4,5,18,Yes,Unfurnished,8912134
+Piplod,Independent House,2973,5,5,8,0,No,Furnished,28231691
+Dindoli,Independent House,2923,5,5,0,13,Yes,Unfurnished,12661880
+Katargam,Apartment,687,1,2,15,3,No,Semi-Furnished,3266039
+Vesu,Apartment,3389,5,5,4,11,No,Unfurnished,22527541
+Varachha,Independent House,3290,5,5,0,14,No,Unfurnished,14966521
+City Light,Apartment,3117,5,4,2,12,No,Furnished,23821552
+Althan,Independent House,3409,5,5,2,19,No,Furnished,22450013
+City Light,Apartment,761,1,1,14,19,Yes,Semi-Furnished,4811444
+Adajan,Apartment,2846,5,5,4,10,Yes,Furnished,18676035
+Athwa,Villa,3428,5,5,10,11,No,Furnished,32329265
+Adajan,Apartment,2077,4,5,3,15,No,Semi-Furnished,11919212
+Adajan,Apartment,1321,3,4,2,2,No,Unfurnished,8237892
+Adajan,Independent House,1224,2,2,15,4,Yes,Furnished,8331480
+Dindoli,Villa,3345,5,5,15,11,No,Semi-Furnished,17285876
+Piplod,Apartment,807,1,1,10,13,No,Furnished,5123976
+Athwa,Apartment,3277,5,5,14,9,Yes,Semi-Furnished,22068800
+Varachha,Independent House,2073,5,4,4,11,No,Semi-Furnished,10915919
+Pal,Apartment,3465,5,5,5,4,Yes,Unfurnished,21844991
+Athwa,Apartment,1068,2,2,5,6,Yes,Furnished,7341594
+City Light,Independent House,2386,5,5,9,3,Yes,Semi-Furnished,23125809
+Varachha,Villa,1861,3,3,9,15,No,Furnished,11668936
+Varachha,Apartment,1937,4,5,1,4,Yes,Semi-Furnished,9941939
+Piplod,Apartment,2376,4,4,1,19,Yes,Furnished,16361552
+Althan,Apartment,1351,2,3,2,16,No,Unfurnished,6512755
+Katargam,Apartment,779,2,2,12,4,No,Semi-Furnished,3327097
+City Light,Independent House,1989,4,5,2,6,No,Furnished,19281270
+Althan,Apartment,1220,3,4,13,4,Yes,Unfurnished,7541205
+Katargam,Independent House,1923,3,4,2,0,No,Furnished,10890177
+Katargam,Apartment,2442,5,5,6,5,No,Semi-Furnished,10924692
+Althan,Apartment,2947,5,5,7,0,Yes,Unfurnished,21024503
+Varachha,Apartment,1058,2,2,13,5,No,Furnished,4958248
+Althan,Apartment,2569,5,4,11,18,No,Furnished,14766802
+Varachha,Apartment,3393,5,5,0,8,Yes,Furnished,17321845
+Pal,Apartment,2013,3,3,11,13,No,Unfurnished,9769733
+Adajan,Apartment,2654,5,5,3,19,Yes,Furnished,14905750
+Althan,Apartment,1661,4,4,3,17,No,Unfurnished,8385864
+City Light,Apartment,2536,5,5,3,6,Yes,Furnished,20648779
+Katargam,Independent House,3062,5,4,13,14,Yes,Unfurnished,14731818
+Varachha,Villa,1976,4,4,4,14,No,Unfurnished,9857635
+Adajan,Apartment,1460,2,2,7,9,Yes,Unfurnished,7114827
+Adajan,Apartment,868,1,2,13,1,Yes,Unfurnished,5274171
+Athwa,Apartment,792,2,2,1,2,No,Furnished,5294386
+Adajan,Apartment,3014,5,5,5,11,Yes,Unfurnished,17576499
+Althan,Independent House,2924,5,5,7,16,Yes,Unfurnished,18372922
+Katargam,Apartment,1438,3,3,5,17,Yes,Furnished,5793420
+Katargam,Independent House,3448,5,5,14,3,Yes,Semi-Furnished,19168604
+Katargam,Apartment,1482,3,3,3,14,Yes,Furnished,6737778
+Althan,Apartment,2832,5,4,10,15,Yes,Semi-Furnished,16802114
+Althan,Independent House,3364,5,5,7,17,No,Semi-Furnished,20983812
+Adajan,Apartment,2498,5,5,5,0,No,Furnished,18354037
+Adajan,Independent House,1038,1,2,3,5,Yes,Semi-Furnished,6438908
+Athwa,Independent House,2205,4,5,15,8,No,Furnished,17927968
+Athwa,Apartment,2206,5,5,4,14,Yes,Unfurnished,13366202
+Pal,Apartment,671,1,1,2,15,Yes,Unfurnished,3110611
+Pal,Apartment,1790,4,3,2,16,No,Semi-Furnished,9194658
+Varachha,Apartment,2617,5,5,0,1,No,Unfurnished,12436267
+Dindoli,Apartment,2362,5,4,5,17,No,Furnished,9408484
+Althan,Apartment,3481,5,4,15,17,No,Semi-Furnished,18515700
+Vesu,Apartment,2153,4,5,11,9,No,Unfurnished,14379955
+City Light,Apartment,1978,5,4,10,12,Yes,Semi-Furnished,14233175
+City Light,Apartment,781,2,2,7,20,No,Furnished,5090452
+Althan,Independent House,1018,2,1,10,1,No,Furnished,7746595
+Dindoli,Apartment,1642,2,3,0,10,No,Furnished,6590248
+Varachha,Apartment,959,2,2,10,15,No,Unfurnished,3599772
+Dindoli,Apartment,1376,3,2,6,9,No,Unfurnished,5059452
+Piplod,Apartment,3108,5,4,3,18,No,Semi-Furnished,20581608
+Varachha,Villa,2299,4,3,9,16,No,Semi-Furnished,12511128
+Dindoli,Apartment,2197,4,5,5,0,Yes,Furnished,11384146
+Varachha,Apartment,1647,4,5,1,16,Yes,Semi-Furnished,6804520
+Althan,Apartment,2333,4,3,6,13,No,Semi-Furnished,12737475
+Athwa,Independent House,1517,3,2,4,6,Yes,Unfurnished,10174063
+Varachha,Apartment,2843,5,5,1,6,Yes,Semi-Furnished,13715642
+Althan,Apartment,3247,5,4,15,0,Yes,Unfurnished,20804065
+Adajan,Apartment,2217,5,4,12,4,Yes,Unfurnished,13716193
+Adajan,Apartment,2687,5,5,15,2,Yes,Furnished,20861318
+City Light,Apartment,2943,5,5,13,6,Yes,Unfurnished,23619059
+Varachha,Independent House,2222,4,3,15,17,No,Furnished,10856802
+Dindoli,Apartment,2495,5,5,4,11,No,Furnished,10707078
+Athwa,Apartment,692,2,1,7,8,No,Semi-Furnished,4479057
+Adajan,Apartment,2740,5,5,12,0,No,Semi-Furnished,20326955
+Piplod,Apartment,1768,3,3,14,20,No,Furnished,10362429
+Adajan,Villa,2563,5,5,10,13,Yes,Unfurnished,18984983
+City Light,Apartment,2273,5,5,14,0,Yes,Furnished,21716417
+Pal,Apartment,562,1,1,10,18,Yes,Unfurnished,2674304
+Pal,Apartment,2983,5,5,14,15,Yes,Semi-Furnished,16673913
+City Light,Independent House,1704,3,4,11,5,No,Semi-Furnished,15288963
+Piplod,Villa,634,2,2,2,14,Yes,Semi-Furnished,5039539
+Dindoli,Independent House,3081,5,5,4,2,No,Unfurnished,13854889
+Katargam,Apartment,2332,5,5,15,3,Yes,Furnished,13782524
+Althan,Apartment,1729,4,5,4,13,Yes,Furnished,11606017
+Piplod,Apartment,2263,4,4,0,9,No,Unfurnished,15597210
+City Light,Independent House,2937,5,5,2,0,No,Unfurnished,27865979
+Dindoli,Apartment,3363,5,5,13,19,No,Unfurnished,10804147
+City Light,Apartment,1511,3,3,1,0,No,Furnished,12309575
+Dindoli,Apartment,3299,5,4,5,8,Yes,Furnished,14806766
+Varachha,Apartment,1090,1,2,4,8,Yes,Semi-Furnished,4471581
+Althan,Apartment,2026,5,5,8,19,No,Furnished,12815753
+City Light,Apartment,2562,5,5,14,1,Yes,Unfurnished,19386540
+Varachha,Apartment,1615,3,4,13,3,No,Unfurnished,8105375
+Katargam,Apartment,2537,5,4,4,3,No,Unfurnished,11096200
+Pal,Independent House,2633,5,5,0,16,Yes,Semi-Furnished,15031588
+Varachha,Apartment,3322,5,5,0,9,Yes,Semi-Furnished,17070818
+Adajan,Independent House,1875,3,2,14,15,No,Furnished,12054109
+Vesu,Independent House,1899,5,5,10,18,Yes,Unfurnished,14715153
+Althan,Apartment,1873,4,3,12,2,No,Semi-Furnished,13393124
+Dindoli,Apartment,915,1,1,5,12,No,Semi-Furnished,3437039
+Pal,Villa,1043,2,3,9,19,Yes,Semi-Furnished,7063870
+Katargam,Villa,1368,3,4,15,8,No,Unfurnished,8095327
+Athwa,Villa,1313,2,3,2,1,No,Semi-Furnished,12315782
+Pal,Independent House,2578,5,4,9,14,No,Unfurnished,14520341
+Pal,Apartment,1073,3,3,7,16,No,Semi-Furnished,5403294
+Vesu,Villa,2652,5,5,13,3,No,Furnished,34686462
+City Light,Independent House,1593,3,2,3,14,Yes,Unfurnished,10057893
+Dindoli,Independent House,3435,5,5,14,19,No,Semi-Furnished,15096433
+Pal,Apartment,1414,2,2,3,13,Yes,Unfurnished,6089273
+Varachha,Villa,2434,5,5,9,19,No,Furnished,15278792
+Dindoli,Villa,1789,3,3,0,6,Yes,Unfurnished,8697801
+Vesu,Apartment,1407,3,3,7,13,Yes,Unfurnished,9216428
+Varachha,Apartment,2278,4,4,4,14,No,Semi-Furnished,9718709
+Piplod,Apartment,1374,2,3,1,10,Yes,Unfurnished,8639532
+Dindoli,Apartment,2580,5,5,1,15,No,Semi-Furnished,10282732
+Varachha,Apartment,1499,3,2,13,18,No,Furnished,6874190
+Dindoli,Apartment,2488,4,4,14,13,Yes,Unfurnished,8845707
+City Light,Independent House,2344,4,4,10,19,No,Unfurnished,16094321
+Dindoli,Villa,2257,5,5,15,5,Yes,Semi-Furnished,13034917
+Varachha,Apartment,1078,2,2,15,3,No,Semi-Furnished,5005186
+Vesu,Apartment,624,1,1,11,5,Yes,Furnished,4766663
+Dindoli,Independent House,1016,2,1,7,15,No,Semi-Furnished,4136364
+Katargam,Independent House,1645,4,3,1,14,No,Unfurnished,7186729
+Athwa,Independent House,967,3,2,3,5,Yes,Unfurnished,6472984
+Althan,Independent House,3450,5,5,3,4,No,Semi-Furnished,24336015
+Piplod,Apartment,2348,5,4,7,15,No,Semi-Furnished,14593525
+City Light,Apartment,3479,5,5,7,4,No,Unfurnished,25904013
+Dindoli,Villa,2429,5,5,0,14,Yes,Unfurnished,12087908
+Adajan,Villa,897,1,2,5,13,Yes,Semi-Furnished,6408198
+Pal,Villa,2903,5,5,13,12,No,Furnished,25438306
+Vesu,Apartment,1695,4,4,12,14,Yes,Furnished,13561947
+Varachha,Apartment,3406,5,5,6,9,Yes,Unfurnished,15118939
+Pal,Apartment,2681,5,5,6,2,No,Furnished,18920965
+Vesu,Apartment,664,2,2,7,9,No,Furnished,4754432
+City Light,Apartment,1613,3,3,3,1,Yes,Semi-Furnished,13123163
+Varachha,Independent House,1938,5,5,11,9,No,Furnished,11812782
+Pal,Apartment,3475,5,5,3,10,Yes,Semi-Furnished,18993506
+Dindoli,Apartment,2237,4,3,13,4,No,Unfurnished,8921430
+Katargam,Apartment,2199,5,5,8,18,No,Furnished,9547601
+Varachha,Independent House,2257,5,5,4,15,No,Unfurnished,10396693
+Katargam,Apartment,1033,2,3,15,1,Yes,Furnished,5940355
+Athwa,Apartment,2223,4,4,9,1,Yes,Unfurnished,16658339
+Althan,Independent House,1754,3,3,4,18,No,Unfurnished,9059141
+Althan,Independent House,1433,2,3,0,3,No,Unfurnished,8891204
+Athwa,Apartment,1818,4,4,12,15,Yes,Unfurnished,10621586
+Varachha,Apartment,3282,5,5,2,19,No,Semi-Furnished,13327786
+Katargam,Villa,737,2,3,8,20,Yes,Unfurnished,3601330
+Althan,Apartment,2848,5,4,6,19,Yes,Furnished,17472772
+Katargam,Independent House,626,1,1,0,8,Yes,Unfurnished,2836219
+Athwa,Independent House,2369,4,4,12,18,Yes,Semi-Furnished,14591779
+Dindoli,Independent House,1289,2,2,12,8,Yes,Unfurnished,5515251
+Althan,Apartment,1139,2,1,4,9,No,Furnished,6910337
+City Light,Apartment,1293,2,1,9,12,Yes,Semi-Furnished,9058935
+Althan,Apartment,2088,5,4,1,6,Yes,Furnished,14702772
+Katargam,Apartment,2127,5,5,1,10,No,Furnished,10247990
+Dindoli,Villa,3144,5,4,8,17,Yes,Unfurnished,15269810
+Pal,Apartment,1797,4,5,2,20,Yes,Unfurnished,8895582
+Piplod,Apartment,2751,5,5,1,0,No,Furnished,25990284
+Vesu,Apartment,796,2,3,8,19,No,Furnished,5266517
+Piplod,Apartment,2946,5,5,1,5,Yes,Semi-Furnished,23425931
+Pal,Independent House,2829,5,5,6,19,No,Furnished,17696000
+Varachha,Apartment,1668,3,3,10,6,No,Furnished,9007115
+Pal,Apartment,3197,5,5,0,0,Yes,Semi-Furnished,21619464
+Varachha,Independent House,2158,4,3,0,14,Yes,Semi-Furnished,10136271
+Athwa,Apartment,2016,4,3,3,14,No,Unfurnished,10908567
+Vesu,Apartment,1701,4,4,6,2,No,Furnished,16425958
+City Light,Independent House,700,1,1,0,6,No,Unfurnished,4855773
+Varachha,Apartment,1248,3,3,2,18,Yes,Furnished,5203533
+Athwa,Apartment,1483,4,4,6,0,No,Furnished,11855153
+Dindoli,Apartment,3175,5,4,10,13,No,Semi-Furnished,12677506
+Varachha,Apartment,2030,4,3,7,1,No,Semi-Furnished,10006075
+Dindoli,Apartment,1347,2,1,7,13,Yes,Unfurnished,4522899
+Adajan,Independent House,3114,5,4,15,13,Yes,Furnished,23522774
+Althan,Independent House,1562,2,2,10,1,No,Furnished,12617995
+Athwa,Independent House,3087,5,4,14,18,Yes,Unfurnished,20942223
+Dindoli,Apartment,1833,4,3,4,1,No,Unfurnished,7725221
+Adajan,Apartment,967,2,1,9,12,No,Unfurnished,4717366
+Athwa,Apartment,3252,5,5,12,14,No,Furnished,22129801
+Vesu,Villa,2409,5,5,3,3,Yes,Furnished,30411434
+Piplod,Apartment,2897,5,5,11,13,No,Furnished,20638466
+Pal,Apartment,730,1,1,13,16,No,Semi-Furnished,3568867
+Pal,Apartment,1153,2,2,9,11,Yes,Furnished,6775497
+Vesu,Apartment,1522,3,2,13,11,Yes,Unfurnished,9802222
+Adajan,Apartment,1948,3,4,14,19,No,Furnished,10400294
+Althan,Independent House,2264,4,3,14,1,No,Unfurnished,16207317
+Piplod,Apartment,2460,5,5,15,10,No,Unfurnished,17605777
+Vesu,Apartment,2036,3,3,0,17,Yes,Unfurnished,11743960
+Athwa,Apartment,2024,3,2,6,6,No,Unfurnished,11846326
+Pal,Independent House,1941,5,5,5,6,Yes,Unfurnished,13321478
+Vesu,Apartment,3324,5,4,10,6,No,Semi-Furnished,28329830
+Pal,Independent House,2708,5,5,2,3,Yes,Unfurnished,17020978
+Dindoli,Apartment,3394,5,5,7,1,Yes,Furnished,16330799
+Piplod,Villa,768,2,2,4,16,No,Unfurnished,5928787
+Athwa,Apartment,815,1,2,11,15,No,Unfurnished,4249019
+Varachha,Independent House,3481,5,5,8,18,No,Furnished,18034107
+Vesu,Apartment,1398,2,2,14,7,No,Unfurnished,10140068
+Athwa,Villa,1193,3,3,8,17,Yes,Unfurnished,8504705
+Katargam,Apartment,1990,3,2,14,16,No,Semi-Furnished,7668440
+City Light,Apartment,2587,5,5,0,5,No,Unfurnished,17813370
+Adajan,Apartment,1756,4,3,8,7,Yes,Unfurnished,9315550
+Piplod,Villa,1917,3,3,8,9,No,Unfurnished,17542389
+Katargam,Independent House,1619,2,2,9,11,No,Semi-Furnished,7546174
+Vesu,Villa,2483,5,5,12,7,Yes,Furnished,29457944
+Katargam,Independent House,2954,5,5,14,10,Yes,Semi-Furnished,15116901
+Dindoli,Independent House,1408,3,2,11,4,Yes,Semi-Furnished,6298363
+City Light,Apartment,1941,3,4,12,17,No,Semi-Furnished,12602583
+Vesu,Apartment,1119,2,2,12,12,Yes,Semi-Furnished,7733503
+Varachha,Villa,994,2,3,9,2,Yes,Unfurnished,5876313
+Athwa,Apartment,2551,4,4,2,12,No,Unfurnished,15386236
+Adajan,Apartment,2412,4,3,5,10,No,Semi-Furnished,12995075
+Katargam,Apartment,2263,4,3,12,6,Yes,Unfurnished,10368982
+Varachha,Apartment,1200,3,3,6,16,No,Semi-Furnished,5289897
+Varachha,Apartment,812,2,2,10,18,No,Semi-Furnished,2997307
+Adajan,Independent House,1729,4,5,11,9,No,Furnished,13358846
+Dindoli,Apartment,1570,2,3,14,12,Yes,Furnished,6476873
+Vesu,Independent House,1531,4,4,8,20,No,Furnished,12438321
+Piplod,Villa,2571,5,4,11,2,Yes,Furnished,28993800
+Varachha,Villa,1225,2,1,14,0,Yes,Furnished,9144404
+Dindoli,Apartment,1957,4,4,12,1,Yes,Semi-Furnished,9778717
+City Light,Villa,3295,5,5,14,2,Yes,Furnished,41522519
+Varachha,Apartment,1124,2,2,5,5,Yes,Furnished,5470816
+Katargam,Apartment,2150,4,3,8,4,No,Semi-Furnished,10382009
+Katargam,Apartment,1435,3,2,3,12,No,Semi-Furnished,5275720
+Dindoli,Apartment,1376,4,4,7,6,Yes,Unfurnished,6135874
+City Light,Apartment,1337,3,2,7,3,Yes,Furnished,10886210
+Adajan,Apartment,1889,3,3,6,17,No,Semi-Furnished,9152141
+City Light,Apartment,1874,3,4,10,0,No,Unfurnished,13004989
+Althan,Villa,3212,5,4,2,6,No,Semi-Furnished,27957557
+Adajan,Villa,3468,5,5,8,3,No,Furnished,34419817
+Pal,Apartment,1910,3,3,15,2,No,Unfurnished,10888499
+Dindoli,Villa,2643,5,5,0,7,Yes,Furnished,15694977
+Piplod,Apartment,2305,5,4,1,4,No,Semi-Furnished,16657087
+Piplod,Apartment,3179,5,5,10,4,No,Semi-Furnished,25874854
+Katargam,Apartment,2249,5,5,0,7,No,Semi-Furnished,10510321
+Piplod,Apartment,3365,5,5,12,16,No,Unfurnished,19197405
+Varachha,Apartment,836,3,2,4,6,Yes,Unfurnished,3801286
+Piplod,Apartment,1517,3,4,14,9,Yes,Furnished,11455598
+Athwa,Independent House,1569,3,4,6,8,No,Unfurnished,10470323
+Dindoli,Villa,1237,2,3,13,4,No,Unfurnished,6421643
+Adajan,Apartment,1779,4,4,5,8,No,Semi-Furnished,10292231
+Katargam,Independent House,3032,5,5,4,15,Yes,Unfurnished,12345815
+Katargam,Apartment,2082,4,5,12,11,No,Semi-Furnished,9923923
+Adajan,Villa,2224,5,4,12,18,Yes,Unfurnished,16356073
+City Light,Villa,2637,5,5,1,20,No,Semi-Furnished,21943516
+Vesu,Apartment,2030,4,3,4,8,No,Furnished,15916734
+Athwa,Villa,3264,5,4,3,2,No,Semi-Furnished,35143210
+Adajan,Apartment,2673,5,5,5,13,No,Furnished,18007760
+Dindoli,Apartment,2950,5,5,2,3,No,Unfurnished,11849782
+Dindoli,Independent House,3413,5,5,15,0,Yes,Unfurnished,16966306
+Dindoli,Villa,3230,5,5,5,5,No,Unfurnished,17096916
+Pal,Villa,2608,5,5,6,5,Yes,Unfurnished,21342247
+Piplod,Apartment,1612,4,5,14,20,Yes,Furnished,10615998
+Dindoli,Apartment,1060,2,2,0,18,Yes,Semi-Furnished,3752729
+Vesu,Independent House,800,1,1,1,3,Yes,Furnished,6940124
+Katargam,Apartment,1638,4,5,10,19,No,Semi-Furnished,6886299
+City Light,Independent House,1531,4,5,12,19,Yes,Semi-Furnished,11908916
+Vesu,Apartment,2421,5,5,4,0,Yes,Furnished,23964247
+Piplod,Independent House,2059,4,5,13,6,Yes,Furnished,19696323
+Vesu,Apartment,3145,5,4,10,14,Yes,Furnished,25884474
+Adajan,Apartment,1976,4,5,3,12,No,Furnished,11497441
+Katargam,Independent House,2892,5,4,4,15,Yes,Semi-Furnished,14663113
+Varachha,Apartment,1238,3,2,15,17,Yes,Unfurnished,5192580
+Adajan,Apartment,982,2,1,5,10,No,Semi-Furnished,5040997
+Varachha,Independent House,3296,5,5,15,2,No,Unfurnished,19011369
+Athwa,Apartment,814,2,3,12,20,No,Unfurnished,3975752
+Adajan,Independent House,1006,1,1,3,18,No,Unfurnished,5132356
+Athwa,Independent House,556,1,1,12,13,No,Semi-Furnished,3942103
+Pal,Independent House,2678,5,5,3,12,Yes,Furnished,17740179
+Althan,Villa,1446,3,4,4,19,No,Unfurnished,9787514
+Vesu,Independent House,3003,5,4,8,18,No,Furnished,24869971
+Dindoli,Villa,790,3,3,4,6,Yes,Furnished,5212759
+Pal,Apartment,2546,5,5,5,0,No,Semi-Furnished,16603093
+City Light,Apartment,2153,4,4,9,6,No,Unfurnished,15915583
+Athwa,Apartment,771,2,2,14,20,Yes,Furnished,4951933
+Althan,Independent House,1143,2,2,0,11,Yes,Furnished,8029055
+Dindoli,Apartment,2299,5,5,1,3,No,Semi-Furnished,9652514
+Katargam,Apartment,3212,5,5,4,20,No,Unfurnished,11128733
+Varachha,Apartment,1789,4,4,12,2,No,Furnished,10159655
+Varachha,Villa,2054,3,2,2,3,No,Furnished,14043532
+Vesu,Apartment,2953,5,5,8,3,Yes,Semi-Furnished,25946431
+Dindoli,Independent House,1772,4,3,10,2,Yes,Semi-Furnished,8330415
+Katargam,Independent House,2747,5,5,2,16,Yes,Unfurnished,12711689
+Pal,Apartment,3003,5,4,14,10,Yes,Unfurnished,15546295
+Pal,Independent House,909,2,1,2,3,No,Semi-Furnished,5293651
+Vesu,Apartment,1567,3,3,14,4,No,Furnished,14234494
+City Light,Apartment,3032,5,5,3,1,Yes,Unfurnished,23033468
+Piplod,Apartment,1099,2,2,11,8,Yes,Furnished,7573323
+Althan,Villa,1617,3,3,12,14,Yes,Semi-Furnished,13069801
+Pal,Independent House,2745,5,5,6,11,Yes,Semi-Furnished,17156409
+Dindoli,Apartment,2102,3,3,2,8,Yes,Furnished,9136221
+Adajan,Apartment,1899,4,4,10,8,Yes,Unfurnished,10189881
+Piplod,Independent House,2100,5,4,5,16,No,Furnished,16573462
+Katargam,Apartment,1979,4,4,8,19,Yes,Unfurnished,7816731
+Dindoli,Apartment,1290,2,3,15,18,Yes,Semi-Furnished,4787351
+Pal,Independent House,3243,5,5,8,1,No,Furnished,26115823
+Dindoli,Independent House,3444,5,5,11,14,No,Semi-Furnished,15344720
+Piplod,Apartment,1800,4,3,9,13,No,Unfurnished,10355221
+Piplod,Independent House,933,1,1,2,9,No,Unfurnished,5893733
+Katargam,Apartment,1108,2,1,12,0,Yes,Furnished,5677153
+Katargam,Apartment,1963,3,2,14,5,Yes,Unfurnished,8887753
+Katargam,Independent House,1997,5,5,15,12,Yes,Semi-Furnished,9995784
+Piplod,Apartment,2758,5,4,9,9,No,Semi-Furnished,18382983
+Athwa,Apartment,2162,4,4,1,14,No,Unfurnished,12570822
+City Light,Apartment,1772,3,2,11,5,No,Semi-Furnished,12910558
+Piplod,Apartment,897,2,2,13,3,No,Unfurnished,6227120
+Piplod,Independent House,2477,5,5,11,13,Yes,Furnished,19686433
+Varachha,Apartment,3238,5,5,4,11,No,Unfurnished,14863620
+Piplod,Apartment,1003,1,1,4,12,No,Furnished,5946734
+Piplod,Apartment,2513,5,5,3,13,No,Furnished,19229893
+Pal,Independent House,1880,4,5,12,4,Yes,Unfurnished,11524822
+City Light,Villa,2598,4,4,1,10,No,Furnished,26780653
+Althan,Apartment,1705,3,4,7,19,Yes,Furnished,9268706
+Adajan,Independent House,1629,4,4,13,6,No,Furnished,11524235
+Katargam,Apartment,3053,5,5,7,3,Yes,Semi-Furnished,16475127
+Pal,Apartment,2296,4,4,2,1,No,Semi-Furnished,14660040
+Piplod,Apartment,1458,3,4,1,16,No,Furnished,9056889
+City Light,Apartment,1699,4,5,7,10,Yes,Unfurnished,10931602
+City Light,Independent House,1418,2,2,3,13,Yes,Semi-Furnished,9999145
+Althan,Independent House,1006,1,1,4,10,No,Furnished,6663824
+Athwa,Independent House,2716,5,5,8,6,No,Unfurnished,19133726
+Athwa,Independent House,1042,1,1,6,14,Yes,Unfurnished,6264972
+Althan,Apartment,2492,5,5,4,1,Yes,Unfurnished,16907731
+Katargam,Apartment,1972,5,5,3,13,Yes,Semi-Furnished,9293301
+Katargam,Apartment,639,1,1,4,9,Yes,Furnished,3121016
+Piplod,Independent House,2178,4,3,5,14,No,Furnished,16738376
+Althan,Apartment,1397,2,2,6,18,Yes,Furnished,7891153
+Katargam,Apartment,1610,3,3,9,8,Yes,Unfurnished,6754624
+Althan,Independent House,710,2,2,4,8,Yes,Furnished,5473691
+Piplod,Independent House,2739,5,5,11,10,Yes,Furnished,23232109
+Pal,Apartment,2222,5,5,10,1,Yes,Semi-Furnished,15793875
+Pal,Apartment,1598,4,3,12,20,No,Furnished,8450552
+Varachha,Villa,1453,3,3,12,4,No,Unfurnished,8722741
+Pal,Apartment,2512,4,4,14,5,Yes,Unfurnished,15242622
+Pal,Apartment,3202,5,5,5,5,No,Furnished,19790201
+Adajan,Villa,2296,4,5,3,16,Yes,Furnished,16777042
+Adajan,Apartment,2097,4,3,0,20,Yes,Unfurnished,9118816
+Pal,Apartment,3119,5,4,3,17,No,Furnished,16296280
+Athwa,Apartment,2369,5,5,10,15,Yes,Unfurnished,14725596
+Katargam,Apartment,1054,1,1,3,17,No,Unfurnished,3580887
+Pal,Apartment,554,2,1,7,13,No,Unfurnished,2538759
+Dindoli,Apartment,3362,5,4,15,5,Yes,Unfurnished,15176404
+City Light,Apartment,862,2,1,11,2,Yes,Furnished,7038043
+City Light,Independent House,3006,5,5,4,9,No,Semi-Furnished,24543243
+Varachha,Apartment,3260,5,5,2,0,Yes,Furnished,17925349
+Varachha,Apartment,2509,5,4,13,8,Yes,Unfurnished,10920939
+Dindoli,Independent House,1994,4,5,15,13,No,Unfurnished,8554742
+Piplod,Apartment,2119,4,5,15,17,Yes,Semi-Furnished,14353059
+Katargam,Apartment,2916,5,5,2,7,No,Unfurnished,13353581
+City Light,Independent House,2837,5,5,3,1,No,Semi-Furnished,28163287
+Pal,Villa,1757,3,4,7,6,Yes,Unfurnished,11975035
+Pal,Apartment,2096,5,5,11,1,Yes,Furnished,14936765
+Athwa,Apartment,1197,1,1,4,2,Yes,Unfurnished,7665688
+Dindoli,Apartment,1163,3,4,4,16,No,Semi-Furnished,4089486
+Vesu,Apartment,1724,3,2,1,19,Yes,Furnished,11464533
+Dindoli,Apartment,3334,5,5,8,18,No,Furnished,14337295

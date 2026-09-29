@@ -1,0 +1,5 @@
+<!DOCTYPE html><html><head><title>History</title><link rel="stylesheet" href="/static/css/style.css"></head>
+<body><nav><b>Surat Estate AI</b><span><a href="/">Predict</a><a href="/history">History</a><a href="/analytics">Analytics</a></span></nav>
+<main class="card"><h1>Prediction History</h1><table><tr><th>Location</th><th>Area</th><th>BHK</th><th>Type</th><th>Price</th><th>Date</th></tr>
+{% for r in rows %}<tr><td>{{r["location"]}}</td><td>{{r["area_sqft"]|int}}</td><td>{{r["bhk"]}}</td><td>{{r["property_type"]}}</td><td>₹{{"{:,.0f}".format(r["predicted_price"])}}</td><td>{{r["created_at"]}}</td></tr>{% endfor %}
+</table></main></body></html>
